@@ -20,7 +20,7 @@ book_manager/
 ## Installation
 1. **Clone or download the repository:**
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Dhruv-cs50/Book_Management_System/tree/main>
    ```
 
 2. **Navigate to the project directory:**
